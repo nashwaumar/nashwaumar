@@ -4,7 +4,7 @@
 🚀 Currently diving into the world of Full Stack Development</br>
 🌐 Building, breaking, and learning — one project at a time!</br>
 
-🛠️ Tech I'm Exploring:
+🛠️ Tech I'm Exploring:</br>
 🖥️ Node.js | Express
 
 ⚛️ React | Flutter
